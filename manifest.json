@@ -21,7 +21,7 @@
       "name": "SearXNG",
       "keyword": "@searxng, @searx, @sx",
       "search_url": "https://searxng.archuser.org/searxng/search?q={searchTerms}",
-      "favicon_url": "searxng128.webp",
+      "favicon_url": "searxngSVG.svg",
       "suggest_url": "https://searxng.archuser.org/searxng/autocompleter?q={searchTerms}",
       "is_default": true
     }
