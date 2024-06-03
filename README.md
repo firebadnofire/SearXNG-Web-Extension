@@ -53,3 +53,5 @@ If you want use **SearXNG** as support to main search engine do this:
 [**Rodion Borisov**](https://github.com/vintprox) - found `"suggestion_url"` and etc.  
 
 [**Ivan Muzyka**](https://github.com/SeryiBaran) - found icons and etc.
+
+Repository forked from [**Erghel**](https://github.com/Erghel/SearXNG-Web-Extension) on Github
