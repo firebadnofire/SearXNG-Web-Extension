@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "SearXNG — Privacy Search Engine",
   "version": "1.5",
-  "author": "Erghel",
+  "author": "FireBADnoFire",
   "default_locale": "en",
   "description": "__MSG_extensionDescription__",
   "icons": {
@@ -20,9 +20,9 @@
     "search_provider": {
       "name": "SearXNG",
       "keyword": "@searxng, @searx, @sx",
-      "search_url": "https://searx.be/search?q={searchTerms}",
+      "search_url": "https://searxng.archuser.org/searxng/search?q={searchTerms}",
       "favicon_url": "searxng128.webp",
-      "suggest_url": "https://searx.be/autocompleter?q={searchTerms}",
+      "suggest_url": "https://searxng.archuser.org/searxng/autocompleter?q={searchTerms}",
       "is_default": true
     }
   }
