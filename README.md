@@ -1,6 +1,8 @@
 # SearXNG-Web-Extension (Unofficial)
 [<img src="./firefox-add-ons.png" title="Firefox Add-ons" width="auto" height="47" />](https://addons.mozilla.org/en-US/firefox/addon/searxng-archuser-org) <p><a href=""><img src="https://img.shields.io/amo/users/searxng-archuser-org?style=flat-square" alt="Badge" /></a></p>
 
+Like this extension? Check out <a href="https://pubhole.archuser.org/">Pubhole DNS</a>
+
 # SearXNG
 
 **SearXNG** is a free Internet metasearch engine that aggregates results from various search services and databases. Users are not tracked or profiled.
